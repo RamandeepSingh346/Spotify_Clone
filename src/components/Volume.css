@@ -1,0 +1,9 @@
+ .Volume{
+    color: white;
+    margin-right: 100px;
+    
+}  
+
+.Volume * .MuiSlider-colorPrimary{
+     color: green;
+}
